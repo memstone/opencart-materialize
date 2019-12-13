@@ -7,9 +7,9 @@ $_['callback_title']		= 'Materialize "回叫"';
 $_['text_extension']		= '模组';
 $_['text_success']			= '模组设置已更新!';
 $_['text_edit']				= '修改 Materialize 模组 "回叫"';
-$_['text_settings']			= '附加设置';
-$_['text_popup']			= '弹出窗口';
-$_['text_call_action']		= '展开浮动按钮';
+$_['text_settings']			= '其它';
+$_['text_popup']			= '表单窗口';
+$_['text_call_action']		= '可展开浮动图标';
 $_['text_name']				= '姓名';
 $_['text_enquiry']			= '留言';
 $_['text_call_time']		= '方便接听电话时间';
@@ -18,18 +18,18 @@ $_['text_call_time']		= '方便接听电话时间';
 $_['entry_phonemask']		= '电话号码输入模板';
 $_['entry_status']			= '状态';
 $_['entry_required']		= '必须项';
-$_['entry_success']			= '发送文本';
-$_['entry_fields']			= '附加内容';
+$_['entry_success']			= '提交成功提示';
+$_['entry_fields']			= '其它选项';
 $_['entry_title']			= '标题';
-$_['entry_text_button']		= '窗口按钮文字';
-$_['entry_button_color']	= '窗口按钮颜色';
-$_['entry_bubble_color']	= '浮动按钮颜色';
-$_['entry_description']		= '描述文本';
+$_['entry_text_button']		= '提交按钮文字';
+$_['entry_button_color']	= '图标颜色';
+$_['entry_bubble_color']	= '展开颜色';
+$_['entry_description']		= '内容';
 $_['entry_time']			= '停留时间';
 $_['entry_agreement']		= '同意条款';
 
 // Help
-$_['help_time']				= '弹出浮动描述框等待时间(秒)<br/>客户停留页面超过此时长后，将弹出浮动引导框。';
+$_['help_time']				= '展开浮动描述框等待时间(秒)<br/>客户停留页面超过此时长后，将展开浮动引导框。';
 $_['help_agreement']		= '请确认同意条款';
 
 // Error
